@@ -9,6 +9,8 @@ const GlobalStyles = createGlobalStyle`
     font-size:;
     color:;
 } */
+
+/* Reset */
 /* 1. Use a more-intuitive box-sizing model */
 
 *, *::before, *::after {
